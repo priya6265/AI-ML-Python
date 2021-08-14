@@ -1,3 +1,3 @@
-print('Priya')
-print('Sambhaji')
-print('Ghadge')
+print("Priya")
+print("Sambhaji")
+print("Ghadge")
